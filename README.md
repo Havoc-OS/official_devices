@@ -33,7 +33,8 @@ List of all the Officially Supported Devices:
 | OnePlus 7T Pro                | hotdog           | https://t.me/havoc_oneplus7        | https://t.me/SKULSHADY            |
 | OnePlus One                   | bacon            | https://t.me/havoc_bacon           | https://t.me/ClintT1              |
 | Realme XT                     | RMX1921          | https://t.me/havoc_RMX1921         | https://t.me/officialpro          |
-| Redmi Note 9S                 | curtana          | https://t.me/havoc_curtana         | https://t.me/ahmed_tohamy
+| Redmi Note 9S                 | curtana          | https://t.me/havoc_curtana         | https://t.me/ahmed_tohamy         |
+| Samsung Galaxy A10            | a10              | https://t.me/havoc_a10             | https://t.me/Dark998              |
 | Samsung Galaxy Note 3         | hlte             | https://t.me/havoc_hlte            | https://t.me/Jprimero15           |
 | Samsung Galaxy S5             | klte             | https://t.me/havoc_klte            | https://t.me/cnkzlyr              |
 | Samsung Galaxy S8             | dreamlte         | https://t.me/havoc8895             | https://t.me/xEugW                |
