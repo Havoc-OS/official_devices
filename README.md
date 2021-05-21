@@ -66,7 +66,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi 7                | onclite          | https://t.me/havoc_onclite         | https://t.me/XtremeQ              |
 | Xiaomi Redmi K20 Pro          | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
 | Xiaomi Redmi Note 3           | kenzo            | https://t.me/havoc_kenzo           | https://t.me/Magicxavi            |
-| Xiaomi Redmi Note 4           | mido             | https://t.me/havoc_mido            | https://t.me/Sagarrokade006       |
+| Xiaomi Redmi Note 4           | mido             | https://t.me/havoc_mido            | https://t.me/NBD_ERICK            |
 | Xiaomi Redmi Note 5A          | ulysse           | https://t.me/havoc_ulysse          | https://t.me/fortifying           |
 | Xiaomi Redmi Note 5 Pro       | whyred           | https://t.me/havocoswhyred         | https://t.me/notallowedontelegram |
 | Xiaomi Redmi Note 6 Pro       | tulip            | https://t.me/havoc_tulip           | https://t.me/akhilmsachu          |
